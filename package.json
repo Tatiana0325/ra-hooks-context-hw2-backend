@@ -1,0 +1,27 @@
+{
+  "name": "ra-hooks-context-hw2-backend",
+  "version": "1.0.0",
+  "description": "ra-hooks-context-hw2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatiana0325/ra-hooks-context-hw2-backend.git"
+  },
+  "author": "Tatiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatiana0325/ra-hooks-context-hw2-backend/issues"
+  },
+  "homepage": "https://github.com/Tatiana0325/ra-hooks-context-hw2-backend#readme",
+  "dependencies": {
+    "forever": "^3.0.4",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.0.0",
+    "koa2-cors": "^2.0.6"
+  }
+}
